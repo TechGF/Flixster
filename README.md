@@ -21,7 +21,7 @@ Time spend: 6 hours
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-
+https://imgur.com/a/pjSJphE
 <img src="https://imgur.com/a/pjSJphE" width=250><br>
 GIF created with LiceCap.
 
