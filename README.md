@@ -4,11 +4,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 Submitted by: Gary Feng
 
-Time spend: 6 hours
+Time spend: 12 hours
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
+## Flix Part 2
 
----
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 ## Flix Part 1
 
@@ -21,9 +23,8 @@ Time spend: 6 hours
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-https://imgur.com/a/pjSJphE
-<img src="https://imgur.com/a/pjSJphE" width=250><br>
-GIF created with LiceCap.
+<img src="http://g.recordit.co/6o8oriXoqq.gif" width=250><br>
 
 ### Notes
 Added blue colored background
+Updated to black colored background
